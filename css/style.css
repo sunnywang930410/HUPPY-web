@@ -372,13 +372,13 @@ a{
     width: 280px;
     height: 280px;
     border-radius: 100%;
-    cursor:url("../img/pointer02.ico"),pointer;
+    cursor:url("./img/pointer02.ico"),pointer;
 }
 .self2{
     width: 280px;
     height: 280px;
     border-radius: 100%;
-    cursor:url("../img/pointer02.ico"),pointer;
+    cursor:url("./img/pointer02.ico"),pointer;
 }
 .self1:hover{
     content: url("./img/Ado2.PNG");
